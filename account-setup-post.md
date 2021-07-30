@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1-Account Setup (Wordpress.com)
+title: 1-Account Setup (WordPress.com)
 nav_order: 3
 parent: Workshop Activities
 ---
