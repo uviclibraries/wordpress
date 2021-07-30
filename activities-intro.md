@@ -12,4 +12,4 @@ parent: Workshop Activities
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [NEXT STEP: Account Setup and Blog Post with WordPress.com](account-setup-post.html){: .btn .btn-blue }
-or [Account Setup with OpenEd.ca](open-ed-account-setup){: .btn .btn-blue }
+or [NEXT STEP: Account Setup with OpenEd.ca](open-ed-account-setup){: .btn .btn-blue }
