@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;height:180px;"> 
+<img src="wordpress-logo.png" style="float:right;width:180px;height:180px;"> 
 
 # Personal Websites with Wordpress
 
