@@ -5,34 +5,29 @@ nav_order: 1
 ---
 <img src="WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;height:180px;"> 
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Personal Websites with Wordpress
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 10 min 
+- Introductory presentation: 15 min
+- Hands-on activities: 60-90 min
 
-## Why TOOL NAME HERE? 
+## Why Wordpress? 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/) Desribe the tool and how it can be used. This is an example of the description for Taguette:
+[Wordpress](https://wordpress.com) Desribe the tool and how it can be used.
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+## Learning objectives
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
+Participants will be able to do the following by the end of this workshop:
 
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
+- Know What WordPress is, why it is free, and what other web hosting options there are (including knowing the difference between WordPress.com vs WordPress.org: Plugins, 3rd party themes, modify template code).
+- Know the importance of planning for a website.
+- Be able to create a navigation structure for your website.
+- Create a basic personal website on Wordpress.com.
+- Create blog posts.
+- Embed images and videos.
+- Add pages static pages, including a static home page.
+- Change the website template.
+- Customize menus & navigation.
+- Customize a Wordpress.com theme.
 
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
-
-## Learning objectives - UPDATE FOR THE NEW TOOL
-
-At the end of this workshop, you will be able to:
-
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. Use Taguette on either their personal computer or on a cloud-based server
-3. Will have coded at least two texts of their choosing (interviews, speeches, lectures, announcements, etc.) using techniques covered in the workshop
-4. Will have research materials with codes and have exported them
-5. Created a basic analysis of coded data in Excel
- 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
