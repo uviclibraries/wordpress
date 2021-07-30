@@ -6,4 +6,4 @@ parent: Workshop Activities
 ---
 # First Blog Post using OpenEd.ca
 
-[NEXT STEP: Open Ed.ca Blog Post](open-ed-blog-post.html){: .btn .btn-blue }
+[NEXT STEP: Categories and Navigation](categories-navigation.html){: .btn .btn-blue }
