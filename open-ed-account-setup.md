@@ -7,4 +7,4 @@ parent: Workshop Activities
 
 # Account Setup with OpenEd.com
 
-[Blog Post with OpenEd.ca](open-ed-blog-post){: .btn .btn-blue }
+[NEXT STEP: Blog Post with OpenEd.ca](open-ed-blog-post){: .btn .btn-blue }
