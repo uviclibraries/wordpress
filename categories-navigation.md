@@ -33,3 +33,5 @@ In this exercise, you will create categories for your blog posts, and then creat
   - Next press the **Save Settings** button on the right side of the Feed Settings section.
 
 Congratulations!
+
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
