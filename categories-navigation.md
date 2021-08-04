@@ -5,7 +5,7 @@ nav_order: 6
 parent: Workshop Activities
 ---
 # Categories and Navigation
-**Introduction to Personal Websites with WordPress #2: Categories & Navigation**
+**Introduction to Personal Websites with WordPress #2: Categories & Navigation**<br>
 In this exercise, you will create categories for your blog posts, and then create top-level navigation menu items for one or more categories. If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
 1. Create new categories for your blog posts:
