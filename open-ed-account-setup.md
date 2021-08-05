@@ -15,7 +15,7 @@ In this exercise, you will create your own Wordpress website using OpenEd.com th
   - Did you create a pen and paper outline of what you want your website to look like?  If you did, this will be a great guide as you look at different Wordpress template options.
 
 2. Create an Account at OpenEd.ca
-  - Go to [opened.ca](opened.ca){:target="_blank"} 
+  - Go to [opened.ca](https://opened.ca/){:target="_blank"} 
   ![OpenEd homepage](/images/opened-setup-01.png)
   - Click the red ‘**Get started**’.
   ![Get Started button](/images/opened-setup-02.png)
