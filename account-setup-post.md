@@ -5,7 +5,7 @@ nav_order: 3
 parent: Workshop Activities
 ---
 # Account Setup and First Blog Post with Wordpress
-<img src="wordpress-logo.png" style="float:right;width:200px;height:170px" alt="wordpress logo."> 
+<img src="wordpress-setup-01.png" style="float:right;width:200px;height:170px" alt="wordpress logo."> 
 **Introduction to Personal Websites with WordPress #1: Getting Started**<br>
 In this exercise, you will create your own Wordpress website that would be suitable for a personal portfolio. If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
@@ -19,7 +19,8 @@ In this exercise, you will create your own Wordpress website that would be suita
 
 2. Create a Wordpress account:
   - In your web browser, navigate to: [Wordpress](https://wordpress.com){:target="_blank"} and create a new Wordpress account and username. Don’t worry too much about what your username will be, because you will pick a different name for your website address. 
-  - Once you create an account, it will prompt you to create a domain -- this will be the address people will type in to go to your website. Most people use their name for their portfolio to get started, or use a name for a business idea they have. If your name is already taken, try adding your middle initial or spelling out your middle name. Keep in mind that you can have multiple free websites in your Wordpress account so this can also be a practice website and you can choose one with a different name later.
+  - Once you create an account, it will prompt you to create a domain -- this will be the address people will type in to go to your website. Most people use their name for their portfolio to get started, or use a name for a business idea they have. If your name is already taken, try adding your middle initial or spelling out your middle name. Keep in mind that you can have multiple free websites in your Wordpress account so this can also be a practice website and you can choose one with a different name later.<br>
+![Create an account domain name](/images/wordpress-setup-02.png)
   - When you fill in your idea in the form at the top, a large list of ideas will come up, most of them for paid domains. However, at least one of them will be for a free option. If you don’t like the option that comes up, you can try entering another name and see what comes up. Sometimes they will be in the format of janedoe.home.blog or janedoe.wordpress.com
   - Once you’ve chosen a Free domain, click on the Select button next to it. This will bring you to a page offering you options for various tiers of Wordpress accounts. Just at the top is an option for starting with a free site. Click to the link to “**Start with a free site**”.
   - Congratulations, you’ve created a “shell” or blank Wordpress website! 
