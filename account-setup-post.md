@@ -73,7 +73,7 @@ In this exercise, you will create your own Wordpress website that would be suita
   - You can now upload a photo you’d like to use, or click on the **Media Library** tab in the top left of the webpage to select one of the images you’re already using on your website.  
   - Select an image, and then click on **Select and Crop** in the bottom right of the webpage. Press the blue Save Changes button at the top left of the webpage.
  
-   ![Demonstration of adding a header and cropping an image](/images/wordpress-setup-18.gif)
+   ![Demonstration of adding a header and cropping an image](/images/wordpress-setup-18.gif)<br>
   - Lastly, press the Launch site button at the top right to make your new website live to the public! Congratulations on creating a website for yourself! 
 
 **If you are met with another page asking you to give your site an address, the last option should be the first domain you chose with the option to “Skip Purchase”. And another page to Start with a free site.**
