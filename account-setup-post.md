@@ -57,7 +57,7 @@ In this exercise, you will create your own Wordpress website that would be suita
   - Select the template you want, by clicking on the theme image. Note: The rest of this tutorial will use the **Twenty Seventeen** theme which we recommend you search for. Customization options depend on which theme you choose.
  <img src="images//wordpress-setup-14.png" style="float:right" alt="Twenty Seventeen theme."> 
   - Click on the one you want and then click the **Activate this design** button near the top middle of the webpage. You can switch to other themes later, too. When prompted click on **Customize site**.
- ![Demonstration of Activating the design](/images/wordpress-setup-15.gif)
+ ![Demonstration of Activating and Costomizing the design](/images/wordpress-setup-15.gif)
  
 6. Customize your new website template: 
   - Click on **Site Identity** and then **Site Title** in the left sidebar to give your site a name. Click on the **Save Changes** button. And then click the back arrow next to Site Identity to get back to the menu. 
@@ -67,7 +67,7 @@ In this exercise, you will create your own Wordpress website that would be suita
   - Add a page by clicking on the page title link in the toolbar that just popped up. 
   - Select the checkbox beside **Automatically, add new top-level pages to this menu** at the bottom of the left menu.
   - Press the blue **Save Changes** button at the top of the webpage. You are now looking at a preview of your website.
-  - To make other customizations to your website click the back arrow next to Primary to get back to Menus and then again to get back into Customizing.
+  - To make other customizations to your website click the back arrow next to Primary to get back to Menus and then again to get back into Customizing.<br>
    ![Demonstration of Customization options](/images/wordpress-setup-17.gif) 
   - Let’s change the main website photo by selecting the **Header Media** option, and then the **Add new image** button in the left toolbar. 
   - You can now upload a photo you’d like to use, or click on the **Media Library** tab in the top left of the webpage to select one of the images you’re already using on your website.  
