@@ -45,5 +45,3 @@ If you have any questions or get stuck as you work through this, please ask your
 **If you are met with another page asking you to give your site an address, the last option should be the first domain you chose with the option to “Skip Purchase”. And another page to Start with a free site.**
 
 [NEXT STEP: Categories and Navigation](categories-navigation.html){: .btn .btn-blue }
-or 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
