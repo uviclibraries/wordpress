@@ -27,10 +27,10 @@ In this exercise, you will create your own Wordpress website that would be suita
 ![Demonstration of Step 2](/images/wordpress-setup-04.gif)
 
 3. Create some content for your website by writing a blog post with an image and video:
-<img src="images//wordpress-setup-01.png" style="float:right;width:100px;height:160px" alt="left side navigation bar."> 
+<img src="images//wordpress-setup-05.png" style="float:right;width:100px;height:160px" alt="left side navigation bar."> 
   - In the left sidebar navigation, click on **Site** and then **Posts** and then click on the red button in the top right of the page that says **Add New Post**. 
   - Give the post a title, and then type some text in the field below the title.
- ![Demonstration of creating a post with a title and text](/images/wordpress-setup-05.gif)
+ ![Demonstration of creating a post with a title and text](/images/wordpress-setup-06.gif)
   - Now let’s add an image by first clicking on the down arrow in the menu just above your post text to bring up the additional menu options, and click on **Inline Image**. This will bring up a pop up menu with an image gallery. If you click on the little **Image icon** with the down arrow and then on **Free photo library**, you can search for more photos to use. When you find an image you want, click **Copy to media library** and then **Insert**. 
   - To resize the image, click on it and change the image width by entering a number of pixels. 
   - Next, copy and paste a YouTube URL onto the last line of the blog post.
