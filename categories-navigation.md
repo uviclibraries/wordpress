@@ -12,8 +12,8 @@ In this exercise, you will create categories for your blog posts, and then creat
 1. Create new categories for your blog posts:
   - Click Posts and choose one of the posts you have created. Click on it to open and edit it. 
   - Give your blog post a name and a little bit of text.
-  - Click on the **Categories** drop-down in the right side toolbar. (If you don’t see this, click on the **Settings** button shaped like a cog in the upper left corner to open the left menu bar.)
   <img src="images//wordpress-categories-03.png" style="float:right" alt="Add new category."> 
+  - Click on the **Categories** drop-down in the right side toolbar. (If you don’t see this, click on the **Settings** button shaped like a cog in the upper left corner to open the left menu bar.)
   - Click on the **Add New Category** link, and then type a category name (e.g., Update, Personal, Tech Inquiry, etc) and then press the **Add New Category** button.
   - Type another category name in the field, then press the **Add New Category** button. 
   - Uncheck all categories that might not relate to this post.
