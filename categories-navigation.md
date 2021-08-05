@@ -21,24 +21,23 @@ In this exercise, you will create categories for your blog posts, and then creat
   - Press the blue **Update** button on the top right of the page.
   - Click on the black W in the upper left corner to go back to your dashboard.
   <img src="images//wordpress-categories-04.png" style="float:right" alt="black W button."><br>
-  ![Demonstration of Step 1 Adding a new category](/images/wordpress-category-05.gif)
+  ![Demonstration of Step 1 Adding a new category](/images/wordpress-categories-05.gif)
   
 2. Make the two new categories top-level menu items:
   - In your dashboard, under Design, select the **Customize** from the left navigation menu.
   - Select the **Menus** button in the left toolbar, and then select **Primary**.
-  <img src="images//wordpress-categories-06.png" style="float:right" alt="Add Items button."> 
-  - Click on the **+ Add Items** button in the left toolbar.
+  - Click on the **+ Add Items** button in the left toolbar. <img src="images//wordpress-categories-06.png" style="float:right" alt="Add Items button."> 
   - Click on the **Categories** drop-down menu.
   - Click on the categories that you recently created to add them to your website menu.
   - Click the **Save Changes** button on the top right of the page. Click the X button on the top left to go back to the admin dashboard page.<br>
-  ![Demonstration of Step 2 Customization](/images/wordpress-category-07.gif)
+  ![Demonstration of Step 2 Customization](/images/wordpress-categories-07.gif)
   
 3. Now let’s increase the RSS feed limit from 10 to 50 blog posts:
   - Click on the **Manage** and then **Settings** menu item on the bottom of the left menu.
   - Click on the **Writing** tab in the top middle of the page.
   - Scroll down the page to the “**Feed Settings**” section and change the number of most recent blog posts from 10 to 50. 
   - Next press the **Save Settings** button on the right side of the Feed Settings section.<br>
-  ![Demonstration of Step 3](/images/wordpress-category-08.gif)<br>
+  ![Demonstration of Step 3](/images/wordpress-categories-08.gif)<br>
 
 Congratulations!
 
