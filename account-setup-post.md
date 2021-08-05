@@ -61,8 +61,8 @@ In this exercise, you will create your own Wordpress website that would be suita
  
 6. Customize your new website template: 
   - Click on **Site Identity** and then **Site Title** in the left sidebar to give your site a name. Click on the **Save Changes** button. And then click the back arrow next to Site Identity to get back to the menu. 
+  <img src="images//wordpress-setup-16.png" style="float:right" alt="Menu button."> 
   - Select the **Menus** button in the left toolbar, and then select **Primary**. (Note, if you have not confirmed your email address, you’ll need to do that step now.)
- <img src="images//wordpress-setup-16.png" style="float:right" alt="Menu button."> 
   - Your menu list will show up under Primary. If you created pages and do not see them on this list, Click on the **Add Items** button in the left toolbar.
   - Add a page by clicking on the page title link in the toolbar that just popped up. 
   - Select the checkbox beside **Automatically, add new top-level pages to this menu** at the bottom of the left menu.
@@ -73,7 +73,7 @@ In this exercise, you will create your own Wordpress website that would be suita
   - You can now upload a photo you’d like to use, or click on the **Media Library** tab in the top left of the webpage to select one of the images you’re already using on your website.  
   - Select an image, and then click on **Select and Crop** in the bottom right of the webpage. Press the blue Save Changes button at the top left of the webpage.
  
- ![Demonstration of adding a header and cropping an image](/images/wordpress-setup-18.gif)
+   ![Demonstration of adding a header and cropping an image](/images/wordpress-setup-18.gif)
   - Lastly, press the Launch site button at the top right to make your new website live to the public! Congratulations on creating a website for yourself! 
 
 **If you are met with another page asking you to give your site an address, the last option should be the first domain you chose with the option to “Skip Purchase”. And another page to Start with a free site.**
