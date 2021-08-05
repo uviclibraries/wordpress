@@ -13,7 +13,7 @@ nav_order: 1
 
 ## Why Wordpress? 
 
-[Wordpress](https://wordpress.com) Desribe the tool and how it can be used.
+[Wordpress](https://wordpress.com) is a free and open source platform that can be used in order to create personal websites and blogging platforms. Wordpress is beneficial as it enables people to create and design their own website in an accessible way. It has many features and templates, which easily makes the customization of the site more personal. Creatiung posts and embeding images, links and videos is also a valuable asset as there is no need to design codes. As such, this allows users to create personal portfolios and there is even an Open Ed version which is another way to create a free website for post-secondary staff,faculty and students. Through this workshop, there is the option to create an OpenEd.ca account or a Wordpress account. 
 
 ## Learning objectives
 
