@@ -19,12 +19,12 @@ In this exercise, you will create your own Wordpress website using OpenEd.com th
   ![OpenEd homepage](/images/opened-setup-01.png)
   - Click the red ‘**Get started**’.
   ![Get Started button](/images/opened-setup-02.png)
-  - **Create an OpenEd username**.
+  - **Create an OpenEd username**.<br>
   ![Open Ed user name window](/images/opened-setup-03.png)
   - **Complete the form**.
         - You MUST use your …@uvic.ca email address.
-        - Make sure you choose ‘Just a username, please.’
-        - Click ‘Next’
+        - Make sure you choose ‘Just a username, please.’<br>
+        - Click ‘Next’<br>
    ![Completing the form with username and uvic email](/images/opened-setup-04.png)
         - Fill out the form.
   - **Go make some tea, and check your email in about 10 minutes.**
@@ -32,12 +32,12 @@ In this exercise, you will create your own Wordpress website using OpenEd.com th
         - You can check your UVic email at the following address: [https://webmail.uvic.ca](https://webmail.uvic.ca){:target="_blank"} 
    ![Confirmation email example](/images/opened-setup-05.png)
   - **Activate your username**.
-        - The email will come from ‘OpenETC Administrator’ and will contain a link that you must follow to activate your account.
+        - The email will come from ‘OpenETC Administrator’ and will contain a link that you must follow to activate your account.<br>
    ![Second confirmation email example with link](/images/opened-setup-06.png)
         - Activation email.
   - Then you’ll get another email.
         - Click **Log in**
-        - Confirmation email.
+        - Confirmation email.<br>
    ![Final email example](/images/opened-setup-07.png)
 
 3. If you are met with another page asking you to give your site an address, the last option should be the first domain you chose with the option to “Skip Purchase”. And another page to Start with a free site.
