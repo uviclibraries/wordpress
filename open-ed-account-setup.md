@@ -27,7 +27,7 @@ In this exercise, you will create your own Wordpress website using OpenEd.com th
         - Click ‘Next’<br>
    ![Completing the form with username and uvic email](/images/opened-setup-04.png)
         - Fill out the form.
-  - **Go make some tea, and check your email in about 10 minutes.**
+  - **Go make some tea, and check your email in about 3-5 minutes.**
         - Sometimes the confirmation email takes a few minutes, if you don’t see it in 10-15 minutes, check your spam/junk folder.
         - You can check your UVic email at the following address: [https://webmail.uvic.ca](https://webmail.uvic.ca){:target="_blank"} 
    ![Confirmation email example](/images/opened-setup-05.png)
