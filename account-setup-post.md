@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 1-Account Setup (WordPress.com)
-nav_order: 3
+title: 1-Account Setup for WordPress.com
+nav_order: 5
 parent: Workshop Activities
 ---
 # Account Setup and First Blog Post with Wordpress
