@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2-Categories and Navigation
-nav_order: 6
+nav_order: 10
 parent: Workshop Activities
 ---
 # Categories and Navigation
