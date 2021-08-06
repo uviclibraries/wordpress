@@ -4,7 +4,7 @@ title: 1-Account Setup for WordPress.com
 nav_order: 6
 parent: Workshop Activities
 ---
-# Account Setup and First Blog Post with Wordpress
+# Account Setup and First Blog Post with Wordpress.com
 <img src="images//wordpress-setup-01.png" style="float:right;width:200px;height:170px" alt="wordpress logo."> 
 **Introduction to Personal Websites with WordPress #1: Getting Started**<br>
 In this exercise, you will create your own Wordpress website that would be suitable for a personal portfolio. If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
