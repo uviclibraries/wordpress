@@ -16,5 +16,5 @@ You have the option of creating a WordPress website on OpenEd.ca, which is hoste
 If you're not sure which option to select, please ask the instructor leading the workshop.
 
 [NEXT STEP: Account Setup with OpenEd.ca](open-ed-account-setup){: .btn .btn-blue }<br>
-- OR -
+- OR -<br>
 [NEXT STEP: Account Setup and Blog Post with WordPress.com](account-setup-post.html){: .btn .btn-blue }
