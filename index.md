@@ -8,8 +8,8 @@ nav_order: 1
 # Personal Websites with Wordpress
 
 - Pre-workshop activities: 10 min 
-- Introductory presentation: 15 min
-- Hands-on activities: 60-90 min
+- Introductory presentation: 10 min
+- Hands-on activities: 50 min
 
 ## Why Wordpress? 
 
