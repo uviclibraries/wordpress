@@ -3,7 +3,7 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
-## Pre-Workshop Videos, Readings & Exercises
+## Pre-Workshop Videos
 **10 minutes or less.**<br>
 - [Introduction to Wordpress](https://goo.gl/4WdKbK){:target="_blank"} (3 min)<br>
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/81625407" width="640" height="360" frameborder="0" allowfullscreen></iframe>
