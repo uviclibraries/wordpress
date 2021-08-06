@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 1A-Account Setup (OpenEd.com)
-nav_order: 4
+title: 1A-OpenEd.ca Account Setup
+nav_order: 3
 parent: Workshop Activities
 ---
-# Account Setup with OpenEd.com (Activity 1)
+# Account Setup with OpenEd.ca
 In this exercise, you will create your own Wordpress website using OpenEd.com that would be suitable for a personal portfolio. If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
 1. Before you set up your website, let’s make sure that you’re prepared... Begin with the end in mind:
