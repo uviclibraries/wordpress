@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 1B-First Blog Post (OpenEd.ca)
-nav_order: 5
+title: 1B-OpenEd.ca First Blog Post
+nav_order: 4
 parent: Workshop Activities
 ---
 # First Blog Post using OpenEd.ca
