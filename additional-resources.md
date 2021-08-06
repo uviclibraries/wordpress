@@ -12,6 +12,7 @@ Coming soon!
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
 - [Rich McCue](https://richmccue.com/){:target="_blank"}
+- Dani Johnson
 - Brittany Johnson -Animated Gifs
 
 [NEXT STEP: Land acknowledgement](land-acknowledgement.html){: .btn .btn-blue }
