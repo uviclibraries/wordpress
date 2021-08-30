@@ -20,7 +20,7 @@ nav_order: 1
 Participants will be able to do the following by the end of this workshop:
 
 - Explain what WordPress is, why it is free, and what other web hosting options there are (including knowing the difference between WordPress.com vs WordPress.org: Plugins, 3rd party themes, modify template code).
-- Describe the planning proces for a creating a website.
+- Use the planning process to create a website.
 - Create a navigation structure for your website.
 - Create a basic personal website on Wordpress.com.
 - Create blog posts.
