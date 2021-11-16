@@ -40,6 +40,6 @@ In this exercise, you will create your own Wordpress website using OpenEd.com th
         - Confirmation email.<br>
    ![Final email example](/images/opened-setup-07.png)
 
-3. If you are met with another page asking you to give your site an address, the last option should be the first domain you chose with the option to “Skip Purchase”. And another page to Start with a free site.
+3. Go back to the Get Started link in Step 2. The form you filled our to create a username will turn into a form to create a site. It says to "add another site" even though you haven't added one before. Fill out the form. If you are met with another page asking you to give your site an address, the last option should be the first domain you chose with the option to “Skip Purchase”. And another page to Start with a free site.
 
 [NEXT STEP: Blog Post with OpenEd.ca](open-ed-blog-post){: .btn .btn-blue }
