@@ -14,6 +14,6 @@ parent: Workshop Activities
   - Did you create a pen and paper outline of what you want your website to look like?  If you did, this will be a great guide as you look at different Wordpress template options.
 
 2. Static Home Page vs Blog Posts Home Page
-  - stuff here...
+  - **MORE COMING SOON!**
 
 [NEXT STEP: Create youur first Blog Post](first-blog-post){: .btn .btn-blue }
