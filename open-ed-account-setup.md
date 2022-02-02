@@ -21,7 +21,7 @@ The website account creation process can take some time to process after you’v
         - **You MUST use your own UVic email address (NOT Gmail or other email address - use your …@uvic.ca email address. Do not use YourNameHere)**.
         - Make sure you choose ‘**Give me a site!**’
         - Click ‘**Next**’<br>
-   ![Completing the form with username and uvic email](/images/opened-setup-03b.png){:width=200"}
+   ![Completing the form with username and uvic email](/images/opened-setup-03b.png =x200)
   
 **2. Choose a Web Address, Website Name, and Template**  
   - Create a URL domain for your site, which will be ______.opened.ca, where you fill in the blank (for example, if you entered hmccue here, then your website address would be rmccue.opened.ca).
@@ -32,7 +32,7 @@ The website account creation process can take some time to process after you’v
   - Choose your privacy setting
     - The top Yes/No option (allow search engines) are open on the web – we encourage one of these two options.
   - Select the EPORTFOLIO TEMPLATE 2 template, then click the black Signup button at the bottom of the page (you can easily select a different template later).
-  ![Website domain name, site tilte, privacy, template](/images/opened-setup-03.png){:width=200"}
+  ![Website domain name, site tilte, privacy, template](/images/opened-setup-03.png =x200)
   
 **3. Go make some tea, and check your email in about 3-5 minutes.**
         - Sometimes the confirmation email takes a few minutes, if you don’t see it in 10-15 minutes, check your spam/junk folder.
