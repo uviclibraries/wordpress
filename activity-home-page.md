@@ -22,7 +22,7 @@ There are two different options for the front page, or home page of your Wordpre
   - On the left navigation bar click on **Settings**.
   - On the left navitation bar click on **Reading**.
   - On the web page click on either **Your latest posts** or **A static page**. If you select _A static page_, you'll need to select (or create) pages for your Homepage, and your Posts page. Ask you instructor if you have any questions about this.<br>
-![Demonstration of Step 2 Customization](/images/homepage-01.gif)
+![Demonstration of Step 2 Customization](/images/homepage-01b.gif)
 
 
 [NEXT STEP: Create youur first Blog Post](first-blog-post){: .btn .btn-blue }
