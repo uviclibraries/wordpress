@@ -16,4 +16,4 @@ parent: Workshop Activities
 2. Static Home Page vs Blog Posts Home Page
   - stuff here...
 
-[NEXT STEP: Create youur first Blog Post](open-ed-blog-post){: .btn .btn-blue }
+[NEXT STEP: Create youur first Blog Post](first-blog-post){: .btn .btn-blue }
