@@ -19,10 +19,9 @@ There are two different options for the front page, or home page of your Wordpre
   - Blog Post Front Page: This is the traditional front page blog format with blog posts featured in reverse chronological order. This is the default Front Page type, so if you'd like this style of website you don't need to do anything.
  
 **3. Change your Home Page Type:**
-  - On the left navigation bar click on **Appearance**.
-  - On the left navitation bar click on **Customize**.
-  - On the left navitation bar click on **Homepage Settings**.
-  - On the left navitation bar clic on either **Your latest posts** or **A static page**. Note: If you select A static page, you'll need to select (or create) pages for your Homepage, and your Posts page. Ask you instructor if you have any questions about this.<br>
+  - On the left navigation bar click on **Settings**.
+  - On the left navitation bar click on **Reading**.
+  - On the web page click on either **Your latest posts** or **A static page**. If you select _A static page_, you'll need to select (or create) pages for your Homepage, and your Posts page. Ask you instructor if you have any questions about this.<br>
 ![Demonstration of Step 2 Customization](/images/homepage-01.gif)
 
 
