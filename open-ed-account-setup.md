@@ -1,18 +1,17 @@
 ---
 layout: default
-title: 1A-OpenEd.ca Account Setup
+title: 1A-OpenEd.ca Website Setup
 nav_order: 3
 parent: Workshop Activities
 ---
 # Account Setup with OpenEd.ca
-In this exercise, you will create your own Wordpress website using OpenEd.com that would be suitable for a personal portfolio. If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
+**This activity is for UVic Students, Faculty, and Staff** who would like to create a non-commercial WordPress Website (note: a portfolio website that is used for a job serarch is considered non-commercial). If you are not part of the UVic community or would like to create a commercial website of some kind, please start with the [WordPress.com account setup activity](account-setup-post.html).
 
-1. Before you set up your website, let’s make sure that you’re prepared... Begin with the end in mind:
-  - Have you looked at other portfolio websites on the internet for inspiration?  If not, take 5 minutes and google “portfolio websites”, and make notes about things you would like to include in your website (e.g. layout, look & feel menus, and pages or features.)
-  - Do you have ideas for a name for your website? _________________________________
-  - Do you have a list of pages and/or sections for your website? Eg: Resume, portfolio, blog...
-  - Do you have a top-level navigation structure in mind for your website (usually at the top of every web page? Eg: Home, Portfolio, About, Blog, Contact)
-  - Did you create a pen and paper outline of what you want your website to look like?  If you did, this will be a great guide as you look at different Wordpress template options.
+OpenEd.ca websites hosted by a team of B.C. post-secondary education IT professionals on BCNet’s EduCloud, so your data is stored within B.C.  Because it is a University hosted website it cannot be used for commercial purposes. That said, in addition to school projects, you could also use your website as a personal portfolio to help you in your future job searches.
+
+The website account creation process can take some time to process after you’ve requested an account, so that is why we are asking you to start your account creation process before class time.
+
+
 
 2. Create an Account at OpenEd.ca
   - Go to [opened.ca](https://opened.ca/){:target="_blank"} 
@@ -42,4 +41,4 @@ In this exercise, you will create your own Wordpress website using OpenEd.com th
 
 3. Go back to the Get Started link in Step 2. The form you filled our to create a username will turn into a form to create a site. It says to "add another site" even though you haven't added one before. Fill out the form. If you are met with another page asking you to give your site an address, the last option should be the first domain you chose with the option to “Skip Purchase”. And another page to Start with a free site.
 
-[NEXT STEP: Blog Post with OpenEd.ca](open-ed-blog-post){: .btn .btn-blue }
+[NEXT STEP: Create youur first Blog Post](open-ed-blog-post){: .btn .btn-blue }
