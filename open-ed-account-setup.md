@@ -21,17 +21,17 @@ The website account creation process can take some time to process after you’v
         - **You MUST use your own UVic email address (NOT Gmail or other email address - use your …@uvic.ca email address. Do not use YourNameHere)**.
         - Make sure you choose ‘**Give me a site!**’
         - Click ‘**Next**’<br>
-   ![Completing the form with username and uvic email](/images/opened-setup-03b.png =x200)
+   <img src="/images/opened-setup-03b.png" width="200" alt="Completing the form with username and uvic email">
   
 **2. Choose a Web Address, Website Name, and Template**  
-  - Create a URL domain for your site, which will be ______.opened.ca, where you fill in the blank (for example, if you entered hmccue here, then your website address would be rmccue.opened.ca).
+  - Create a URL domain for your site, which will be ______.opened.ca, where you fill in the blank (for example, if you entered **hmccue** here, then your website address would be **hmccue.opened.ca**).
     - The URL can contain only lowercase letters (a-z), numbers, and hyphens (no spaces allowed)
     - If you want to remain anonymous, don’t include your name here.
     - You cannot easily change this later.
-  - Give your site a title, which you can change later (for example you could use Portfolio Website as the site title, or Course Work, or any other title you’d like).
+  - Give your site a title, which you can change later (for example you could use **Portfolio Website** as the site title, or **Course Work**, or any other title you’d like).
   - Choose your privacy setting
     - The top Yes/No option (allow search engines) are open on the web – we encourage one of these two options.
-  - Select the EPORTFOLIO TEMPLATE 2 template, then click the black Signup button at the bottom of the page (you can easily select a different template later).
+  - Select the **EPORTFOLIO TEMPLATE 2** template, then click the black **Signup** button at the bottom of the page (you can easily select a different template later).
   ![Website domain name, site tilte, privacy, template](/images/opened-setup-03.png =x200)
   
 **3. Go make some tea, and check your email in about 3-5 minutes.**
