@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 # First Blog Post
 If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
-<img src="images//opened-blog-01.png" style="float:right;width:200px;height:170px" alt="open etc logo."> 
+
 1. Create some content for your website by writing a blog post with an image and video:
   - In the left sidebar navigation, click on **Site** and then **Posts** and then click on the red button in the top right of the page that says **Add New Post**. 
   - Give the post a title, and then type some text in the field below the title.<br>
