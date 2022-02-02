@@ -54,4 +54,4 @@ The website account creation process can take some time to process after you’v
    - Great job! You will configure your website during class time, using your choice of over 40 templates.
    - If you had any problems setting up your website, please email rmccue@uvic.ca with a description of your problem, and I will help you during class time as we work on our websites.
 
-[NEXT STEP: Create youur first Blog Post](first-blog-post){: .btn .btn-blue }
+[NEXT STEP: Create youur first Blog Post](activity-home-page.html){: .btn .btn-blue }
