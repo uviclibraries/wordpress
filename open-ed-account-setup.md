@@ -11,21 +11,17 @@ OpenEd.ca websites hosted by a team of B.C. post-secondary education IT professi
 
 The website account creation process can take some time to process after you’ve requested an account, so that is why we are asking you to start your account creation process before class time.
 
-
-
-2. Create an Account at OpenEd.ca
+1. Create an Account at OpenEd.ca
   - Go to [opened.ca](https://opened.ca/){:target="_blank"} 
   ![OpenEd homepage](/images/opened-setup-01.png)
   - Click the red ‘**Get started**’.
   ![Get Started button](/images/opened-setup-02.png)
-  - **Create an OpenEd username**.<br>
-  ![Open Ed user name window](/images/opened-setup-03.png)
   - **Complete the form**.
-        - You MUST use your …@uvic.ca email address.
-        - Make sure you choose ‘Just a username, please.’<br>
-        - Click ‘Next’<br>
-   ![Completing the form with username and uvic email](/images/opened-setup-04.png)
-        - Fill out the form.
+        - Remember, if you want to be anonymous, you can use a pseudonym for your username.
+        - **You MUST use your own UVic email address (NOT Gmail or other email address - use your …@uvic.ca email address. Do not use YourNameHere)**.
+        - Make sure you choose ‘**Give me a site!**’
+        - Click ‘**Next**’<br>
+   ![Completing the form with username and uvic email](/images/opened-setup-03b.png)
   - **Go make some tea, and check your email in about 3-5 minutes.**
         - Sometimes the confirmation email takes a few minutes, if you don’t see it in 10-15 minutes, check your spam/junk folder.
         - You can check your UVic email at the following address: [https://webmail.uvic.ca](https://webmail.uvic.ca){:target="_blank"} 
