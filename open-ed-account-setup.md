@@ -12,7 +12,7 @@ OpenEd.ca websites hosted by a team of B.C. post-secondary education IT professi
 The website account creation process can take some time to process after you’ve requested an account, so that is why we are asking you to start your account creation process before class time.
 
 **1. Create an Account at OpenEd.ca**
-  - Go to [opened.ca](https://opened.ca/){:target="_blank";width="200"} 
+  - Go to [opened.ca](https://opened.ca/){:target="_blank"} 
   ![OpenEd homepage](/images/opened-setup-01.png)
   - Click the red ‘**Get started**’.
   ![Get Started button](/images/opened-setup-02.png)
@@ -21,7 +21,7 @@ The website account creation process can take some time to process after you’v
         - **You MUST use your own UVic email address (NOT Gmail or other email address - use your …@uvic.ca email address. Do not use YourNameHere)**.
         - Make sure you choose ‘**Give me a site!**’
         - Click ‘**Next**’<br>
-   ![Completing the form with username and uvic email](/images/opened-setup-03b.png)
+   ![Completing the form with username and uvic email](/images/opened-setup-03b.png){:width=200"}
   
 **2. Choose a Web Address, Website Name, and Template**  
   - Create a URL domain for your site, which will be ______.opened.ca, where you fill in the blank (for example, if you entered hmccue here, then your website address would be rmccue.opened.ca).
