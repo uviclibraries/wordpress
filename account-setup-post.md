@@ -21,5 +21,5 @@ In this exercise, you will create your own Wordpress website that would be suita
 
 **If you are met with another page asking you to give your site an address, the last option should be the first domain you chose with the option to “Skip Purchase”. And another page to Start with a free site.**
 
-[NEXT STEP: Categories and Navigation](activity-home-page.html){: .btn .btn-blue }
+[NEXT STEP: Home Page & Planning](activity-home-page.html){: .btn .btn-blue }
 
