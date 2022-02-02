@@ -41,13 +41,13 @@ The website account creation process can take some time to process after you’v
 **4. Activate your username:**
    - The email will come from ‘OpenETC Administrator’ and will contain a link that you must follow to activate your account.<br>
    ![Second confirmation email example with link](/images/opened-setup-06b.png)
-        - Activation email.
 
 **5. Then you’ll get another email:**
    - Click the link beside ‘**Log in here:**’.<br>
-   ![Final email example](/images/opened-setup-07.png)
+   ![Final email example](/images/opened-setup-07b.png)
 
 **6. Log in to WordPress:**
- - zlkjv;sadjf
+   - Use the username and password that were included in your confirmation email.<br>
+   ![Log onto WordPress](/images/opened-setup-08b.png)
 
 [NEXT STEP: Create youur first Blog Post](open-ed-blog-post){: .btn .btn-blue }
