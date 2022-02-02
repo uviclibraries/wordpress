@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Planning & Home Page
+title: 2-Home Page & Planning
 nav_order: 5
 parent: Workshop Activities
 ---
