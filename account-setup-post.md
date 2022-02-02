@@ -7,7 +7,7 @@ parent: Workshop Activities
 #  Wordpress.com Website Setup
 <img src="images//wordpress-setup-01.png" style="float:right;width:200px;height:170px" alt="wordpress logo."> 
 **Introduction to Personal Websites with WordPress #1: Getting Started**<br>
-In this exercise, you will create your own Wordpress website that would be suitable for a personal portfolio. If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
+In this exercise, you will create your own Wordpress website that would be suitable for a personal portfolio or as a commercial website of some kind. If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
 1. Create a Wordpress account:
   - In your web browser, navigate to: [Wordpress](https://wordpress.com){:target="_blank"} and create a new Wordpress account and username. Don’t worry too much about what your username will be, because you will pick a different name for your website address. 
