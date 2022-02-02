@@ -21,8 +21,7 @@ The website account creation process can take some time to process after you’v
         - **You MUST use your own UVic email address (NOT Gmail or other email address - use your …@uvic.ca email address. Do not use YourNameHere)**.
         - Make sure you choose ‘**Give me a site!**’
         - Click ‘**Next**’<br>
-   <img src="/images/opened-setup-03b.png" width="200" alt="Completing the form with username and uvic email">
-   
+   ![Completing the form with username and uvic email](/images/opened-setup-03b.png){:width="200px"}
   
 **2. Choose a Web Address, Website Name, and Template**  
   - Create a URL domain for your site, which will be ______.opened.ca, where you fill in the blank (for example, if you entered **hmccue** here, then your website address would be **hmccue.opened.ca**).
