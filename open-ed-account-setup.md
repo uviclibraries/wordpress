@@ -17,10 +17,10 @@ The website account creation process can take some time to process after you’v
   - Click the red ‘**Get started**’.
   ![Get Started button](/images/opened-setup-02.png)
   - **Complete the form**.
-        - Remember, if you want to be anonymous, you can use a pseudonym for your username.
-        - **You MUST use your own UVic email address (NOT Gmail or other email address - use your …@uvic.ca email address. Do not use YourNameHere)**.
-        - Make sure you choose ‘**Give me a site!**’
-        - Click ‘**Next**’<br>
+    - Remember, if you want to be anonymous, you can use a pseudonym for your username.
+    - **You MUST use your own UVic email address (NOT Gmail or other email address - use your …@uvic.ca email address. Do not use YourNameHere)**.
+    - Make sure you choose ‘**Give me a site!**’
+    - Click ‘**Next**’<br>
    ![Completing the form with username and uvic email](/images/opened-setup-03b.png){:width="300px"}
   
 **2. Choose a Web Address, Website Name, and Template**  
