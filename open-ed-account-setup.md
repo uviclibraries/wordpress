@@ -32,6 +32,7 @@ The website account creation process can take some time to process after you’v
   - Choose your privacy setting
     - The top Yes/No option (allow search engines) are open on the web – we encourage one of these two options.
   - Select the EPORTFOLIO TEMPLATE 2 template, then click the black Signup button at the bottom of the page (you can easily select a different template later).
+  ![Website domain name, site tilte, privacy, template](/images/opened-setup-03.png){:width=200"}
   
 **3. Go make some tea, and check your email in about 3-5 minutes.**
         - Sometimes the confirmation email takes a few minutes, if you don’t see it in 10-15 minutes, check your spam/junk folder.
