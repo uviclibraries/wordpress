@@ -11,7 +11,7 @@ OpenEd.ca websites hosted by a team of B.C. post-secondary education IT professi
 
 The website account creation process can take some time to process after you’ve requested an account, so that is why we are asking you to start your account creation process before class time.
 
-1. Create an Account at OpenEd.ca
+**1. Create an Account at OpenEd.ca**
   - Go to [opened.ca](https://opened.ca/){:target="_blank"} 
   ![OpenEd homepage](/images/opened-setup-01.png)
   - Click the red ‘**Get started**’.
@@ -22,7 +22,18 @@ The website account creation process can take some time to process after you’v
         - Make sure you choose ‘**Give me a site!**’
         - Click ‘**Next**’<br>
    ![Completing the form with username and uvic email](/images/opened-setup-03b.png)
-  - **Go make some tea, and check your email in about 3-5 minutes.**
+  
+**2. Choose a Web Address, Website Name, and Template**  
+  - Create a URL domain for your site, which will be ______.opened.ca, where you fill in the blank (for example, if you entered hmccue here, then your website address would be rmccue.opened.ca).
+    - The URL can contain only lowercase letters (a-z), numbers, and hyphens (no spaces allowed)
+    - If you want to remain anonymous, don’t include your name here.
+    - You cannot easily change this later.
+  - Give your site a title, which you can change later (for example you could use Portfolio Website as the site title, or Course Work, or any other title you’d like).
+  - Choose your privacy setting
+    - The top Yes/No option (allow search engines) are open on the web – we encourage one of these two options.
+  - Select the EPORTFOLIO TEMPLATE 2 template, then click the black Signup button at the bottom of the page (you can easily select a different template later).
+  
+**3. Go make some tea, and check your email in about 3-5 minutes.**
         - Sometimes the confirmation email takes a few minutes, if you don’t see it in 10-15 minutes, check your spam/junk folder.
         - You can check your UVic email at the following address: [https://webmail.uvic.ca](https://webmail.uvic.ca){:target="_blank"} 
    ![Confirmation email example](/images/opened-setup-05.png)
