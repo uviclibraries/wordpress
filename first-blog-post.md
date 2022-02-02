@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1-First Blog Post
+title: 3-First Blog Post
 nav_order: 6
 parent: Workshop Activities
 ---
