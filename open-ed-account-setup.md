@@ -12,7 +12,7 @@ OpenEd.ca websites hosted by a team of B.C. post-secondary education IT professi
 The website account creation process can take some time to process after you’ve requested an account, so that is why we are asking you to start your account creation process before class time.
 
 **1. Create an Account at OpenEd.ca**
-  - Go to [opened.ca](https://opened.ca/){:target="_blank"} 
+  - Go to [opened.ca](https://opened.ca/){:target="_blank";width="200"} 
   ![OpenEd homepage](/images/opened-setup-01.png)
   - Click the red ‘**Get started**’.
   ![Get Started button](/images/opened-setup-02.png)
