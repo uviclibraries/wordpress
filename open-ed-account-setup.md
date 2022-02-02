@@ -38,15 +38,16 @@ The website account creation process can take some time to process after you’v
   - Sometimes the confirmation email takes a few minutes, if you don’t see it in 10-15 minutes, check your spam/junk folder.<br>
   ![Confirmation email example](/images/opened-setup-05.png)
  
-**4. Activate your username:**.
+**4. Activate your username:**
    - The email will come from ‘OpenETC Administrator’ and will contain a link that you must follow to activate your account.<br>
-   ![Second confirmation email example with link](/images/opened-setup-06.png)
+   ![Second confirmation email example with link](/images/opened-setup-06b.png)
         - Activation email.
-  - Then you’ll get another email.
-        - Click **Log in**
-        - Confirmation email.<br>
+
+**5. Then you’ll get another email:**
+   - Click the link beside ‘**Log in here:**’.<br>
    ![Final email example](/images/opened-setup-07.png)
 
-3. Go back to the Get Started link in Step 2. The form you filled our to create a username will turn into a form to create a site. It says to "add another site" even though you haven't added one before. Fill out the form. If you are met with another page asking you to give your site an address, the last option should be the first domain you chose with the option to “Skip Purchase”. And another page to Start with a free site.
+**6. Log in to WordPress:**
+ - zlkjv;sadjf
 
 [NEXT STEP: Create youur first Blog Post](open-ed-blog-post){: .btn .btn-blue }
