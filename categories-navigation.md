@@ -5,7 +5,6 @@ nav_order: 10
 parent: Workshop Activities
 ---
 # Categories & Navigation
-<img src="images//wordpress-categories-01.png" style="float:right;width:200px;height:170px" alt="wordpress logo."> 
 
 In this exercise, you will create categories for your blog posts, and then create top-level navigation menu items for one or more categories. If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
