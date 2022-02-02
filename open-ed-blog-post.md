@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 1B-OpenEd.ca First Blog Post
-nav_order: 4
+title: 1-First Blog Post
+nav_order: 6
 parent: Workshop Activities
 ---
-# First Blog Post using OpenEd.ca
+# First Blog Post
 If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 <img src="images//opened-blog-01.png" style="float:right;width:200px;height:170px" alt="open etc logo."> 
 1. Create some content for your website by writing a blog post with an image and video:
