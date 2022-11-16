@@ -3,6 +3,7 @@ layout: default
 title: 1B-WordPress.com Website Setup
 nav_order: 4
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 #  Wordpress.com Website Setup
 <img src="images//wordpress-setup-01.png" style="float:right;width:200px;height:170px" alt="wordpress logo."> 
@@ -17,9 +18,27 @@ In this exercise, you will create your own Wordpress website that would be suita
   - Once you’ve chosen a Free domain, click on the Select button next to it. This will bring you to a page offering you options for various tiers of Wordpress accounts. Just at the top is an option for starting with a free site. Click the link to “**Start with a free site**”.
  ![Start with a Free site button](/images/wordpress-setup-03.png)
   - Congratulations, you’ve created a “shell” or blank Wordpress website! 
-![Demonstration of Step 2](/images/wordpress-setup-04.gif)
+
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+<img src="images/wordpress-setup-04.gif">
+</div>
+
 
 **If you are met with another page asking you to give your site an address, the last option should be the first domain you chose with the option to “Skip Purchase”. And another page to Start with a free site.**
+
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Home Page & Planning](activity-home-page.html){: .btn .btn-blue }
 
