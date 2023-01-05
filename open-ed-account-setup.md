@@ -5,9 +5,9 @@ nav_order: 3
 parent: Workshop Activities
 ---
 # Account Setup with OpenEd.ca
-**This activity is for UVic Students, Faculty, and Staff** who would like to create a non-commercial WordPress Website (note: a portfolio website that is used for a job serarch is considered non-commercial). If you are not part of the UVic community or would like to create a commercial website of some kind, please start with the [WordPress.com account setup activity](account-setup-post.html).
+**This activity is for UVic Students, Faculty, and Staff** who would like to create a non-commercial WordPress Website (note: a portfolio website used for a job search is considered non-commercial). If you are not part of the UVic community or would like to create a commercial website of some kind, please start with the [WordPress.com account setup activity](account-setup-post.html).
 
-OpenEd.ca websites hosted by a team of B.C. post-secondary education IT professionals on BCNet’s EduCloud, so your data is stored within B.C.  Because it is a University hosted website it cannot be used for commercial purposes. That said, in addition to school projects, you could also use your website as a personal portfolio to help you in your future job searches.
+OpenEd.ca websites are hosted by a team of B.C. post-secondary education IT professionals on BCNet’s EduCloud, so your data is stored within B.C.  Because it is a University hosted website it cannot be used for commercial purposes. That said, in addition to school projects, you could also use your website as a personal portfolio to help you in your future job searches.
 
 The website account creation process can take some time to process after you’ve requested an account, so that is why we are asking you to start your account creation process before class time.
 
