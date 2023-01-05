@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Categories & Navigation
 
-In this exercise, you will create categories for your blog posts, and then create top-level navigation menu items for one or more categories. If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
+In this exercise, you will create categories for your blog posts, and then create top-level navigation menu items for one or more categories. The animations and instructions below use Wordpress.com, which differs slightly from the OpenEd user interface. If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
 1. Create new categories for your blog posts:
   - Click Posts and choose one of the posts you have created. Click on it to open and edit it. 
@@ -22,12 +22,11 @@ In this exercise, you will create categories for your blog posts, and then creat
   - Click on the black W in the upper left corner to go back to your dashboard.
   <img src="images//wordpress-categories-04.png" style="float:right" alt="black W button."><br>
 
-<button onclick="toggle('gif1')">Show / Hide Animation </button>
-<div id="gif1">
-<img src="images/wordpress-categories-05.gif">
-</div>
+  <button onclick="toggle('gif1')">Show / Hide Animation </button>
+  <div id="gif1">
+  <img src="images/wordpress-categories-05.gif">
+  </div>
 
-  
 2. Make the two new categories top-level menu items:
   - In your dashboard, under Design, select the **Customize** from the left navigation menu.
   - Select the **Menus** button in the left toolbar, and then select **Primary**.
@@ -36,11 +35,10 @@ In this exercise, you will create categories for your blog posts, and then creat
   - Click on the categories that you recently created to add them to your website menu.
   - Click the **Save Changes** button on the top right of the page. Click the X button on the top left to go back to the admin dashboard page.<br>
 
-<button onclick="toggle('gif2')">Show / Hide Animation </button>
-<div id="gif2">
-<img src="images/wordpress-categories-07.gif">
-</div>
-
+  <button onclick="toggle('gif2')">Show / Hide Animation </button>
+  <div id="gif2">
+  <img src="images/wordpress-categories-07.gif">
+  </div>
   
 3. Now let’s increase the RSS feed limit from 10 to 50 blog posts:
   - Click on the **Manage** and then **Settings** menu item on the bottom of the left menu.
@@ -48,13 +46,12 @@ In this exercise, you will create categories for your blog posts, and then creat
   - Scroll down the page to the “**Feed Settings**” section and change the number of most recent blog posts from 10 to 50. 
   - Next press the **Save Settings** button on the right side of the Feed Settings section.<br>
 
-<button onclick="toggle('gif3')">Show / Hide Animation </button>
-<div id="gif3">
-<img src="images/wordpress-categories-08.gif">
-</div>
-<br>
+  <button onclick="toggle('gif3')">Show / Hide Animation </button>
+  <div id="gif3">
+  <img src="images/wordpress-categories-08.gif">
+  </div>
 
-Congratulations!
+**Congratulations! You have created a customized personal website!**
 
 <script>  
 

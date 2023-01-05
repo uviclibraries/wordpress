@@ -13,7 +13,7 @@ nav_order: 1
 
 ## Why Wordpress? 
 
-[Wordpress](https://wordpress.com){:target="_blank"}. is a free and open source platform that can be used to create personal websites, professional websites, and blogs. Wordpress allows you to create and design your website in a realitively easy and accessible way. Wordpress has many features and templates, which facilitates the creattion of a customizated and personal website. This workshop will walk you throught the process of creating a personal or project based website using either  Wordpress.com or if you are a UVic student, staff, or faculty member, a BCNet hosted [OpenEd.ca](https://opened.ca/){:target="_blank"} Wordpress website. 
+[Wordpress](https://wordpress.com){:target="_blank"} is a free and open source platform that can be used to create personal websites, professional websites, and blogs. Wordpress allows you to create and design your website in a relatively easy and accessible way. Wordpress has many features and templates, which facilitates the creattion of a customizated and personal website. This workshop will walk you through the process of creating a personal or project based website using either Wordpress.com or if you are a UVic student, staff, or faculty member, a BCNet hosted [OpenEd.ca](https://opened.ca/){:target="_blank"} Wordpress website. 
 
 ## Learning objectives
 

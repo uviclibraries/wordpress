@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # First Blog Post
-If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
+The animations and instructions below use Wordpress.com, which differs slightly from the OpenEd user interface.  If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
 1. Create some content for your website by writing a blog post with an image and video:
   - In the left sidebar navigation, click on **Posts** and then click on the button in the top right of the page that says **Add New Post**. 
