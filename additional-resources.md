@@ -6,7 +6,9 @@ nav_order: 10
 # Additional Resources & Acknowledgements
 
 ## Wordpress Resources
-Coming soon!
+- [WordPress Support](https://wordpress.org/support/)
+- [OpenEd Support](https://opened.ca/community-resources/wordpress-support/)
+- [WordPress Tutorials](https://learn.wordpress.org/tutorials/)
 
 ## Acknowledgements
 

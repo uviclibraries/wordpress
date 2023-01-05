@@ -3,7 +3,7 @@ layout: default
 title: Earn a Workshop Badge
 nav_order: 9
 ---
-<img src="https://media.badgr.com/uploads/badges/issuer_badgeclass_14016d8b-a26b-4207-accd-5785afee0ace.png" style="float:right;width:180px;"> 
+<img src="https://api.badgr.io/public/badges/niLApMvrQ661gKl19NELBQ/image?imageVersion=1" style="float:right;width:180px;"> 
 
 # Informal Credentials or Digital Badges
 
@@ -13,7 +13,7 @@ DSC electronic badges are [cryptographically signed](https://badgecheck.io/){:ta
 
 DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop hands-on workshop activities. You can see a list of all the badges offered by the DSC on our [Badgr page](https://badgr.com/public/issuers/HI5nEIsFQKiFDSGJWrYNxQ/badges){:target="_blank"}.
 
-### Earn an Informal Credential or Badge for Taguette
+### Earn an Informal Credential or Badge
 
 If you’d like to earn a DSC badge for this workshop, please email the address of your new Wordpress to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 
