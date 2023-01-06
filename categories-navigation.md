@@ -41,9 +41,10 @@ In this exercise, you will create categories for your blog posts, and then creat
   </div>
   
 3. Now let’s increase the RSS feed limit from 10 to 50 blog posts:
-  - Click on the **Manage** and then **Settings** menu item on the bottom of the left menu.
+  - Click on the **Settings** menu item on the bottom of the left menu.
   - Click on the **Writing** tab in the top middle of the page.
   - Scroll down the page to the “**Feed Settings**” section and change the number of most recent blog posts from 10 to 50. 
+    _*Note: if using OpenEd, navigate to the **Reading** tab instead to change blog post settings - the feed settings option is not available._
   - Next press the **Save Settings** button on the right side of the Feed Settings section.<br>
 
   <button onclick="toggle('gif3')">Show / Hide Animation </button>
