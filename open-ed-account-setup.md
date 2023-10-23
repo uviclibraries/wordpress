@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1A-OpenEd.ca Website Setup
-nav_order: 3
+nav_order: 2
 parent: Pre-Workshop Activities
 ---
 # Account Setup with OpenEd.ca
