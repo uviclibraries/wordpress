@@ -17,3 +17,4 @@ You have the option of creating a WordPress website on OpenEd.ca, which is hoste
 If you're not sure which option to select, please ask the instructor leading the workshop.
 
 [NEXT STEP: Home Page and Planning](activity-home-page.html){: .btn .btn-blue }
+
