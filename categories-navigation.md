@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4-Categories & Navigation
-nav_order: 10
+nav_order: 5
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
