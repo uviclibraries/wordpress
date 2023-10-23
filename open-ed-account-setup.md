@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 1A-OpenEd.ca Website Setup
-nav_order: 3
-parent: Workshop Activities
+nav_order: 2
+parent: Pre-Workshop Activities
 ---
 # Account Setup with OpenEd.ca
 **This activity is for UVic Students, Faculty, and Staff** who would like to create a non-commercial WordPress Website (note: a portfolio website used for a job search is considered non-commercial). If you are not part of the UVic community or would like to create a commercial website of some kind, please start with the [WordPress.com account setup activity](account-setup-post.html).
