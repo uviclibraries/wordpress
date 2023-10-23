@@ -20,4 +20,6 @@ has_toc: true
 
 Click the NEXT STEP button below to proceed to activity 1A or 1B.
 
-[NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
+[NEXT STEP: Account Setup with OpenEd.ca](open-ed-account-setup){: .btn .btn-blue }<br>
+-OR-<br>
+[NEXT STEP: Account Setup with WordPress.com](account-setup-post.html){: .btn .btn-blue }
