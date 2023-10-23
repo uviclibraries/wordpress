@@ -12,7 +12,8 @@ nav_order: 2
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h1j8WEGGzL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Create a Wordpress or OpenEd account
-- It is recommended that you create a Wordpress or OpenEd account **before** attending the workshop, as it can take some time to complete.
+- Please create a Wordpress or OpenEd account **before** attending the workshop, as it can take some time to complete.
+
 Click the NEXT STEP button below to proceed to activity 1A or 1B.
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
