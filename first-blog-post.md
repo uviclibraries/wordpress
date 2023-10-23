@@ -100,5 +100,4 @@ The animations and instructions below use Wordpress.com, which differs slightly 
     }
 </script>
 
-
 [NEXT STEP: Categories and Navigation](categories-navigation.html){: .btn .btn-blue }
