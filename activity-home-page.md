@@ -42,4 +42,4 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
         }
     }
 </script>
-[NEXT STEP: Create your first Blog Post](first-blog-post){: .btn .btn-blue }
+[NEXT STEP: Create your first Blog Post](first-blog-post.html){: .btn .btn-blue }
