@@ -40,5 +40,5 @@ In this exercise, you will create your own Wordpress website that would be suita
     }
 </script>
 
-[NEXT STEP: Home Page & Planning](activity-home-page.html){: .btn .btn-blue }
+[NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
 
