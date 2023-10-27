@@ -20,17 +20,17 @@ In this exercise, you will learn how to add and embed downloaded videos and Yout
 
 ### Adding a URL or Youtube video
 **Option 1:**
-- Like the first step of adding a dowloaded video, click the black + square and in the search bar write **video** and Click on the video icon.
+- Like the first step of adding a dowloaded video, click the black + square and in the search bar write **video** and click on the video icon.
 - Instead of clicking upload, click **insert from URL**
 <img src="images//url-blog.png" alt="Insert URL icon"> 
 - Insert your desired URL here
   
 **Option 2:**
-- click the black + square and in the search bar you search **Youtube** instead of video and the icon will come up. Either option works.
+- click the black + square and in the search bar you search **Youtube** instead of video and the icon will come up. Either option works.<br>
   <img src="images//youtube-blog1.png" alt="Youtube icon"> 
 - Next add the Youtube URL and click **embed**
  <img src="images//youtube-blog.png" alt="Youtube Embed icon"> 
 
-[Visit this workshop for more information about video editing using H5P in your wordpress site](https://uviclibraries.github.io/video-editing/h5p.htm)
+[Visit this workshop for more information about video editing using H5P in your wordpress site](https://uviclibraries.github.io/video-editing/h5p.html)
 
 [NEXT STEP: Categories and Navigation](categories-navigation.html){: .btn .btn-blue }
