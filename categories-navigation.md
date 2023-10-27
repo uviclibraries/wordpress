@@ -66,4 +66,5 @@ In this exercise, you will create categories for your blog posts, and then creat
     }
 </script>
 
-[NEXT STEP: Adding and Embedding Videos](add-videos.html){: .btn .btn-blue }
+[NEXT STEP: OAC and Divi Theme](oac-and-divi.html){: .btn .btn-blue } or
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
