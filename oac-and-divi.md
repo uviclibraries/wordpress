@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 5C-OAC and Divi Theme
-nav_order: 6
+title: 6C-OAC and Divi Theme
+nav_order: 7
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
