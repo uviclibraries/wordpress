@@ -12,6 +12,7 @@ In this exercise, you will learn how to add and embed downloaded videos and Yout
 ### Adding Downloaded Videos
 -  If you don’t have a video that you want to edit, let’s start by downloading [this video](http://bit.ly/dsc-goat-video){:target="_blank"}, and saving it to your desktop. It may take 1 or 2 minutes to download. **Note**: If the video starts playing you will have to right mouse click on the video and select “**Save Video As**…” to save it to your computer’s desktop using the name goat video.
 -   First click the black + square and in the search bar write **video**. Click on the video icon.
+  <img src="images//video1-blog.png" alt="Video icon"> 
 -    Next click **upload**. find the file of the goat video by searching the file name or finding it on your desktop and selecting the file. Then click open.
 -  That should add the video within your blog post
 -   If you wish to remove the video, you must click on the video and press the backspace.
@@ -21,12 +22,14 @@ In this exercise, you will learn how to add and embed downloaded videos and Yout
 **Option 1:**
 - Like the first step of adding a dowloaded video, click the black + square and in the search bar write **video** and Click on the video icon.
 - Instead of clicking upload, click **insert from URL**
+<img src="images//url-blog.png" alt="Insert URL icon"> 
 - Insert your desired URL here
   
 **Option 2:**
 - click the black + square and in the search bar you search **Youtube** instead of video and the icon will come up. Either option works.
+  <img src="images//youtube-blog1.png" alt="Youtube icon"> 
 - Next add the Youtube URL and click **embed**
-- 
+ <img src="images//youtube-blog.png" alt="Youtube Embed icon"> 
 
 [Visit this workshop for more information about video editing using H5P in your wordpress site](https://uviclibraries.github.io/video-editing/h5p.htm)
 
