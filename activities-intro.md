@@ -18,6 +18,8 @@ Please visit the **pre-worshop activities**:<br>
 [Account Setup with OpenEd.ca](open-ed-account-setup.html){: .btn .btn-green }
 -OR-<br>
 [Account Setup with WordPress.com](account-setup-post.html){: .btn .btn-green }
+-OR-<br>
+[Account Setup with UVic's Online Academic Community](https://onlineacademiccommunity.uvic.ca/wp-login.php){: .btn .btn-green }
 
 If you're not sure which option to select, please use [this tool](https://uviclibraries.github.io/wordpress/wizard/) to help you determine the best account for your project, and or ask the instructor leading the workshop.
 
