@@ -5,6 +5,8 @@ nav_order: 2
 parent: Pre-Workshop Activities
 ---
 
+# Pre Workshop Activities Introduction
+
 You have the option of creating a WordPress website on OpenEd.ca, which is hosted by a consortium of BC Universities through BCNet, or on WordPress.com which is the commercial company that created and maintains the open source, WordPress software package. Both are free, but a free Wordpress.com website will contain advertisements, and does not provide as many templates and plugins for their free accounts as OpenEd.ca. An OpenEd.ca website is available only to students, faculty and staff at BC universities, and offers a wider range of templates and plugins with no advertisements compared to Wordpress.com. At this point, you should have already decided on the type of WordPress site and have set it up accordingly 
 
 Please visit the **pre-worshop activities**:<br>
