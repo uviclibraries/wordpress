@@ -31,6 +31,6 @@ In this exercise, you will learn how to add and embed downloaded videos and Yout
 - Next add the Youtube URL and click **embed**
  <img src="images//youtube-blog.png" alt="Youtube Embed icon"> 
 
-[Visit this workshop for more information about video editing using H5P in your wordpress site](https://uviclibraries.github.io/video-editing/h5p.html){:target="_blank"} 
+[BONUS ACTIVITY: Interactive Videos on a WordPress Blog with H5P](h5p.html){: .btn .btn-blue }
 
 [NEXT STEP: Categories and Navigation](categories-navigation.html){: .btn .btn-blue }
