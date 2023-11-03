@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Earn a Workshop Badge
-nav_order: 9
+nav_order: 10
 ---
 <img src="https://api.badgr.io/public/badges/niLApMvrQ661gKl19NELBQ/image?imageVersion=1" style="float:right;width:180px;"> 
 
