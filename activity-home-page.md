@@ -18,19 +18,14 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
   - On the left navigation bar click on **Reading**.
   - On the web page click on either **Your latest posts** or **A static page**. If you select _A static page_, you'll need to select (or create) pages for your Homepage, and your Posts page. Ask your instructor if you have any questions about this.<br>
 
-**3. Changing Templates**
-  - Notes you can change your WordPress template at any time and you will not loose any content.
-  - It is slightly different for OpenEd VS WordPress
-  - In OpenEd:
-  - Click customize.
-  - After at the top of the sidebar there will be your current theme. Most times it is the default Hemingway. Click change.
-  - You can do a live preview of various themes before officially changing it. Once you are happy with it click change and it will transfer all the posts over. 
-
-
  <button onclick="toggle('gif1')">Show / Hide Animation </button>
  <div id="gif1">
  <img src="images/homepage-01b.gif">
   </div>
+
+**3. Changing Templates**
+  - Notes you can change your WordPress template at any time and you will not loose any content.
+  - See First Blog Post Activity for more info. 
 
 
 <script>  
