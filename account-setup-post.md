@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1B-WordPress.com Website Setup
-nav_order: 3
+nav_order: 4
 parent: Pre-Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
