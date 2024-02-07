@@ -1,43 +1,29 @@
 ---
 layout: default
 title: 6C-OAC and Divi Theme
-nav_order: 7
+nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-# UVic's Online Academic Community and the Divi Theme
+# UVic's Online Academic Community and the Divi Theme - Adding a Layout
 
-In this exercise, we will get you started on the first steps with what we consider to be the secret weapon of UVic’s Online Academic Community (OAC) installation of Wordpress: The Divi Theme.  If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
+In this exercise, we will create our first page and take a look through the vast collection of layout sets available in the Divi Theme. **To do this activity, you may have to have your Divi account activated by LTSI already..**  If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
-1. **Get to the OAC**
-  - First, if you have not done so already, create a page through the OAC by going to https://onlineacademiccommunity.uvic.ca/ and logging in using your NetlinkID. 
-  - Once you’ve logged in, click on **Online Academic Community** in the upper left corner, which will take you back to the OAC’s main home page. 
-  - On the main OAC home page, in the upper right corner, click on **Get Started**. There will be a **Create a Site** button in the mid-right of this page. Click on this to bring you to the site creation form.
+1. **Create a Page**
+  - From the Dashboard of your site, click on **Page** in the left sidebar menu and then click on **Add New**.
+  - Click on the **Use the Divi Builder** button. Then three options will pop up. Click on **Browse Layouts**. This will bring up the Layout Packs Library. This is an extensive collection of layouts available to use (as of creating this tutorial, 2547 layouts are available in 347 layout packs).
+  - Scroll through and choose one that you like the general look of (in these screenshots, Cooking School layout was used), and then click on it to see the Page layouts available inside that pack. You can click on the individual thumbnails to see a larger version, and scroll down through its preview to see what the full page looks like. Once you find a page layout that you think will work for your first page, click on the **Use This Layout** button to apply it to your page.
+  - Note: If you have had your OAC Divi theme authenticated by LTSI and are working on it again after some time has elapsed, there might be a log in request that comes up expecting you to have an Elegant Themes account to proceed. If this happens, email the URL of your site to ltsisupport@uvic.ca and let them know you are using the Divi theme and this has occured and they will clear it for you. 
 
-2. **Fill out the form to create your page**:
-  - The **Site Name** is where you add your custom part of the OAC web address. For example, our Digital Scholarship Commons website address is onlineacademiccommunity.uvic.ca/dsc and has a shortened form of oac.uvic.ca/dsc (both URLs will bring people to our website). The “dsc” part is what belongs to us as our OAC name and address, as long as we have an OAC site. Choose one that helps identify you that is not already in use by someone else at UVic. (Note: For the purposes of this workshop, you can quickly choose a fun disposable name, because you can have an unlimited number of OAC sites and can just have a practice site for now and worry about a serious name later.)
-  - The Site Title can be edited at any time. You can fill in something like “my new website” here. 
-  - **Privacy**: It’s a good idea to keep your site private until you are ready to launch it. These settings can be changed later in the **Settings > Reading** menu.
-  - A beginner template is fine. Again, this setting will be changed later when you set up a Theme.
-  - Click the very wide **Create Site** button.
-  - You will be redirected to a confirmation page.
+2. **Build on the Front End**:
+  - Once loaded, you will see the back end of your new page, with a bunch of nested Sections (blue or orange), Rows (green), and Modules (dark grey). Each of these can be dragged and dropped to reorganize them, and have various icons to access to change their many settings. To make this a bit less intimidating, you can also edit this on the Front End by clicking on the **Build on the Front End** button at the top. 
+  - Once the editable Front End of your new page loads, you can run your mouse over the Sections, Rows, and Modules and they will highlight in the same colours they had in the Back End, and the same settings icons will appear. 
+  - You can click directly into text boxes to edit the text areas. 
 
-3. **Jump to the Dashboard**
-  - You can find your list of OAC sites now in the upper left corner in a dropdown menu under **My Sites**, listed by the site titles you gave them. 
-  - If you mouse over one of the sites in the list, another dropdown will appear, giving you the option to choose to visit the Dashboard, create a New Post, Visit Site on the front end, etc. 
-  - Click on **Dashboard** to start working on the site.
+3. **Divi Settings**
+  - The settings in each of these Sections, Rows, and Modules are tabbed and nested with extensive options for customization, which can be a little overwhelming. Thankfully, there is documentation available for all of the modules and customization options here: https://www.elegantthemes.com/documentation/divi/ 
 
-4. **Activate the Divi Theme**
-  - In the left sidebar menu click on **Appearance** and then click on **Themes** to see all the themes available for OAC users. 
-  - Look for the theme called **Divi**. Mousing over it will bring up the Activate button. Click on **Activate** to apply this theme to your site. Once it’s active, it will move to the first position in the list of themes and show as Active.
-
-5. **Authenticate Divi**
-  - A recent change with the Divi process requires that the LTSI tech department manually authenticate every site that wants to use the Divi theme's templates
-  - To do this, email the URL of your site to ltsisupport@uvic.ca and let them know you would like to use the Divi templates on your OAC site
-  - Once your site is authenticated, you can start using the templates available in the Divi theme
-  - We are currently building an additional workshop for the Divi theme specifically, but in the meantime, there are many tutorials that can be found here: https://www.elegantthemes.com/documentation/divi/ 
-
-**Congratulations! Divi is now installed on your site.** 
+**Congratulations! You've installed your first layout!** 
 
 
 <script>  
