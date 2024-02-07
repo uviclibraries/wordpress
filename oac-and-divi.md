@@ -54,4 +54,4 @@ In this exercise, we will get you started on the first steps with what we consid
 
 
 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: Add a Divi Layout](oac-and-divi2.html){: .btn .btn-blue }
