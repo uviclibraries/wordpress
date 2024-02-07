@@ -21,7 +21,7 @@ In this exercise, we will create our first page and take a look through the vast
   - You can click directly into text boxes to edit the text areas. 
 
 3. **Divi Settings**
-  - The settings in each of these Sections, Rows, and Modules are tabbed and nested with extensive options for customization, which can be a little overwhelming. Thankfully, there is documentation available for all of the modules and customization options here: https://www.elegantthemes.com/documentation/divi/ 
+  - The settings in each of these Sections, Rows, and Modules are tabbed and nested with extensive options for customization, which can be a little overwhelming. Thankfully, there is documentation available for all of the modules and customization options here: [Divi Documentation Page](https://www.elegantthemes.com/documentation/divi/){:target="_blank"}
 
 **Congratulations! You've installed your first layout!** 
 
