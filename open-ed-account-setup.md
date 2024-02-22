@@ -29,6 +29,8 @@ The website account creation process can take some time to process after you’v
 **3. Create a website by choosing a web address, website name, & template:**  
   - Go to the following web page and request a website using the UVIC DSC Portfolio template (this can take a day or two, so please complete this step a few days before the workshop): [https://opened.ca/create-a-site-for-current-course/](https://opened.ca/create-a-site-for-current-course/){:target="_blank"}
   - Under “What course/project are you signing up for?”, select **UVIC DSC Portfolio** from the drop-down menu.
+<br>
+  ![Website domain name, site title, privacy, template](/images/opened-class-signup.png){:width="500px"}{:style="float:right"}
   - Type in your **opened.ca user name** which you just setup in the previous step.
   - Type in your **UVic email address**.
   - Type in the desired web address for your website. For example the web address could be _https://makeanything.opened.ca_ -or- _https://rmccue.opened.ca_. 
@@ -37,8 +39,7 @@ The website account creation process can take some time to process after you’v
     - You cannot easily change this later.
   - Give your site a title, which you can change later (for example you could use **Portfolio Website** as the site title, or **Course Work**, or any other title you’d like).
   - Select the visibility you would like for your website (most people select the first option, and almost all select one of the top 3 options. You can change this later if you change your mind).
-  - Press **Submit** button! It can take up to a day or two for your website to become active. You will receive an email when it’s ready.<br>
-  ![Website domain name, site title, privacy, template](/images/opened-class-signup.png){:width="500px"}{:style="float:right"}
+  - Press **Submit** button! It can take up to a day or two for your website to become active. You will receive an email when it’s ready.
   
 **6. Next Steps:**
    - Great job! You will configure your website during class time, using your choice of over 40 templates.
