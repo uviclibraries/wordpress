@@ -24,7 +24,7 @@ The website account creation process can take some time to process after you’v
    ![Completing the form with username and uvic email](/images/opened-setup-03b.png){:width="300px"}
 
 **2. Activate your username:**
-   - The email will come from ‘OpenETC Administrator’ and will contain a link that you must follow to activate your account.<br>
+   - The email will come from ‘OpenETC Administrator’ and will contain a link that you must follow to activate your account. If you don't receive an email in 5-minutes or more, please check your spam folder in your email in case the confirmation email ended up there.<br>
 
 **3. Create a website by choosing a web address, website name, & template:**  
   - Go to the following web page and request a website using the UVIC DSC Portfolio template (this can take a day or two, so please complete this step a few days before the workshop): [https://opened.ca/create-a-site-for-current-course/](https://opened.ca/create-a-site-for-current-course/){:target="_blank"}
