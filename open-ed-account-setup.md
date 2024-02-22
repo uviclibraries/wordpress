@@ -23,19 +23,10 @@ The website account creation process can take some time to process after you’v
     - Click ‘**Next**’<br>
    ![Completing the form with username and uvic email](/images/opened-setup-03b.png){:width="300px"}
 
-**2. Go make some tea, and check your email in about 3-5 minutes:**
-  - Sometimes the confirmation email takes a few minutes, if you don’t see it in 10-15 minutes, check your spam/junk folder.<br>
-  ![Confirmation email example](/images/opened-setup-05.png)
- 
-**3. Activate your username:**
+**2. Activate your username:**
    - The email will come from ‘OpenETC Administrator’ and will contain a link that you must follow to activate your account.<br>
-   ![Second confirmation email example with link](/images/opened-setup-06c.png)
 
-**4. Then you’ll get another email:**
-   - Click the link beside ‘**Log in here:**’.<br>
-   ![Final email example](/images/opened-setup-07b.png)
-
-**5. Create a website by choosing a web address, website name, & template:**  
+**3. Create a website by choosing a web address, website name, & template:**  
   - Go to the following web page and request a website using the UVIC DSC Portfolio template (this can take a day or two, so please complete this step a few days before the workshop): [https://opened.ca/create-a-site-for-current-course/](https://opened.ca/create-a-site-for-current-course/){:target="_blank"}
   - Under “What course/project are you signing up for?”, select **UVIC DSC Portfolio** from the drop-down menu.
   - Type in your **opened.ca user name** which you just setup in the previous step.
@@ -47,7 +38,7 @@ The website account creation process can take some time to process after you’v
   - Give your site a title, which you can change later (for example you could use **Portfolio Website** as the site title, or **Course Work**, or any other title you’d like).
   - Select the visibility you would like for your website (most people select the first option, and almost all select one of the top 3 options. You can change this later if you change your mind).
   - Press **Submit** button! It can take up to a day or two for your website to become active. You will receive an email when it’s ready.<br>
-  ![Website domain name, site title, privacy, template](/images/opened-class-signup.png){:width="300px"}
+  ![Website domain name, site title, privacy, template](/images/opened-class-signup.png){:width="500px"}
   
 **6. Next Steps:**
    - Great job! You will configure your website during class time, using your choice of over 40 templates.
