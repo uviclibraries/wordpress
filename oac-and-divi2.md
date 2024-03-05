@@ -15,12 +15,17 @@ In this exercise, we will create our first page and take a look through the vast
   - Scroll through and choose one that you like the general look of (in these screenshots, Cooking School layout was used), and then click on it to see the Page layouts available inside that pack. You can click on the individual thumbnails to see a larger version, and scroll down through its preview to see what the full page looks like. Once you find a page layout that you think will work for your first page, click on the **Use This Layout** button to apply it to your page.
   - Note: If you have had your OAC Divi theme authenticated by LTSI and are working on it again after some time has elapsed, there might be a log in request that comes up expecting you to have an Elegant Themes account to proceed. If this happens, email the URL of your site to ltsisupport@uvic.ca and let them know you are using the Divi theme and this has occured and they will clear it for you. 
 
-2. **Build on the Front End**:
-  - Once loaded, you will see the back end of your new page, with a bunch of nested Sections (blue or orange), Rows (green), and Modules (dark grey). Each of these can be dragged and dropped to reorganize them, and have various icons to access to change their many settings. To make this a bit less intimidating, you can also edit this on the Front End by clicking on the **Build on the Front End** button at the top. 
+2. **Build on the Back End**:
+  - Once loaded, you will see the back end of your new page, with a bunch of nested Sections (blue or orange), Rows (green), and Modules (dark grey). Each of these can be dragged and dropped to reorganize them, and have various icons to access to change their many settings.  
+  - You can click on the round plus (+) signs to add new Sections, Rows, and Modules. <img src="images/divilayoutbackend.png" style="float:right;width:450px;" alt="Pop-up for previewing individual layout">
+  - Each of these are full of nested tabs full of expandable settings menus. See step 4 below for a link to extensive documentation and tutorial videos to help you navigate these settings. 
+
+3. **Build on the Front End**:
+  - An alternative to make this a bit less intimidating, you can also edit your Divi pages and posts on the Front End by clicking on the **Build on the Front End** button at the top. 
   - Once the editable Front End of your new page loads, you can run your mouse over the Sections, Rows, and Modules and they will highlight in the same colours they had in the Back End, and the same settings icons will appear. 
   - You can click directly into text boxes to edit the text areas. 
 
-3. **Divi Settings**
+4. **Divi Settings**
   - The settings in each of these Sections, Rows, and Modules are tabbed and nested with extensive options for customization, which can be a little overwhelming. Thankfully, there is documentation available for all of the modules and customization options here: [Divi Documentation Page](https://www.elegantthemes.com/documentation/divi/){:target="_blank"}
 
 **Congratulations! You've installed your first layout!** 
