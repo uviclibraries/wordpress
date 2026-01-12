@@ -8,7 +8,12 @@ nav_order: 11
 ## Wordpress Resources
 - [WordPress Support](https://wordpress.org/support/){:target="_blank"} 
 - [OpenEd Support](https://opened.ca/community-resources/wordpress-support/){:target="_blank"} 
-- [WordPress Tutorials](https://learn.wordpress.org/tutorials/){:target="_blank"} 
+- [WordPress Tutorials](https://learn.wordpress.org/tutorials/){:target="_blank"}
+
+## Creative Commons Media Search
+- [Creative Commons Photo & Image Search](https://open4us.org/find-oer/#Photo/ImageSearch){:target="_blank"}
+- [Creative Commons Video Search](https://open4us.org/find-oer/#VideoSearch){:target="_blank"}
+- [Creative Commons Audio & Music Search](https://open4us.org/find-oer/#Audio/MusicSearch){:target="_blank"}
 
 ## Acknowledgements
 
